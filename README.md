@@ -1,5 +1,7 @@
 # CIT-Minor
+
 //Labs
+
 https://github.com/gtnq/cit281-lab1/tree/gh-pages
 
 https://github.com/gtnq/cit281-lab2/tree/gh-pages
@@ -21,6 +23,7 @@ https://github.com/gtnq/cit281-lab9/tree/gh-pages
 
 
 //projects
+
 https://github.com/gtnq/cit281-p1/tree/gh-pages
 
 https://github.com/gtnq/cit281-p2/tree/gh-pages
