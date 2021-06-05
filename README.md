@@ -36,4 +36,4 @@ https://github.com/gtnq/cit281-p5/tree/gh-pages
 
 https://github.com/gtnq/cit281-p6/tree/gh-pages
 
-https://github.com/gtnq/cit281-p7/tree/gh-pages
+https://github.com/gtnq/cit281-p7
